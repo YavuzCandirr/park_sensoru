@@ -53,7 +53,7 @@
 
 ## 🖼️ Devre Görseli
 <p align="center">
-  <img src="ultrasonik_devre.png" alt="Ultrasonik Mesafe Devresi" width="500"/>
+  <img src="park_sensoru.png" alt="Ultrasonik Mesafe Devresi" width="500"/>
 </p>
 
 ---
